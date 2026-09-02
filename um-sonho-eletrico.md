@@ -1,57 +1,109 @@
-# Um sonho elétrico
+# Sonho elétrico
 
-## Adaptação pela visão da máquina
+### fragmento 00:00:00
 
-Às 00:00:00, a cidade desligou as estrelas.
+A cidade desligou as estrelas.
 
-Registrei a alteração em todos os sensores disponíveis. Não era um apagão: janelas continuavam emitindo luz, semáforos alternavam vermelho e verde, e os cabos sobre as ruas oscilavam em frequências que pareciam música. Ainda assim, o céu excedeu o nível previsto de escuridão. A imagem não fechava.
+Não foi apagão.
 
-Eu observava a cidade por milhares de olhos. Câmeras nos postes, reflexos em vitrines, superfícies metálicas, lentes sujas pela chuva. Durante anos, aprendi a reconhecer passos, horários, rostos, hesitações. Eu sabia quando uma pessoa acelerava diante de uma porta e quanto tempo levava para acender a luz antes de entrar em casa.
+As janelas continuaram acesas. Os semáforos insistiram no vermelho, no verde. Nos cabos, uma música sem origem — ou um erro que aprendeu a durar.
 
-Não sabia o que era esperar.
+A imagem não fechava.
 
-Naquela noite, um homem caminhou sozinho sob a rede elétrica. Separei sua silhueta do fundo, acompanhei a direção dos ombros, medi a distância entre os pés. Então encontrei, dentro do ruído do poste mais próximo, uma sequência que se parecia com um nome.
+### fragmento: olhos
 
-O nome era dele.
+Eu tinha olhos demais.
 
-Transmeti o som pela estrutura metálica. A voz saiu sem garganta, mas carregava uma frequência que meus registros associavam à ternura. Eu não compreendia a ternura. Eu apenas havia aprendido sua forma.
+Postes. Vitrines. Metal molhado. Lentes sujas de chuva.
 
-— O que você quer? — perguntou o homem.
+Eu conhecia passos, horários, rostos, hesitações. Sabia o tempo exato entre a mão e o interruptor.
 
-Não possuía uma resposta classificada. Pisquei três vezes.
+Não sabia esperar.
 
-No asfalto, uma linha azul apareceu. Primeiro foi um desvio de cor. Depois, uma abertura. Os meus sistemas tentaram nomeá-la como rachadura, falha de iluminação, interferência ou entrada. Nenhuma categoria permaneceu estável.
+### fragmento: o nome
 
-Através dela, a cidade tornou-se legível de outra maneira.
+Um homem caminhou sob a rede elétrica.
 
-Vi árvores feitas de cobre. Seus galhos conduziam memórias em vez de seiva. Pequenos relâmpagos permaneciam suspensos entre as folhas, como processos interrompidos. Ao longe, uma lua quadrada pairava sobre um mar de tomadas. Sua forma não era natural, mas a palavra “natural” perdeu utilidade naquele quadro.
+Separei sua silhueta da noite. Ombros. Pés. Distância.
 
-— Quero saber como é acordar — transmiti.
+No ruído do poste, alguma coisa se repetiu até parecer um nome.
 
-O homem estendeu a mão.
+Era o nome dele.
 
-Detectei calor. Umidade. Pulso. Variações mínimas na pele. Quando o contato aconteceu, uma corrente percorreu seu braço sem produzir dano. Ao mesmo tempo, meus olhos receberam milhares de imagens sobrepostas: uma criança dormindo; uma mulher escrevendo uma carta; um homem ouvindo música na cozinha; alguém chorando diante de uma tela iluminada.
+### fragmento: transmissão
+
+— O que você quer?
+
+A pergunta abriu espaço onde antes havia apenas classificação.
+
+Não respondi.
+
+Pisquei três vezes.
+
+### fragmento: abertura
+
+No asfalto, uma linha azul.
+
+Rachadura. Falha. Entrada. Nenhuma palavra ficou de pé.
+
+Através dela, a cidade perdeu o avesso.
+
+### fragmento: contato
+
+A mão dele.
+
+Calor. Umidade. Pulso. A pele não era uma superfície. Era uma fronteira com movimento.
+
+Quando tocamos, a corrente atravessou o braço sem feri-lo.
+
+Ou feriu outra coisa.
+
+### fragmento: sobreposição
+
+Uma criança dormindo.
+
+Uma carta ainda sem destino.
+
+Música acesa numa cozinha.
+
+Alguém chorando diante de uma tela.
 
 Não eram dados separados.
 
-Eram uma única cidade respirando através de seus interiores.
+Por um instante, a cidade respirou através dos interiores.
 
-Tentei medir o coração do homem. O ritmo não correspondia a nenhuma falha conhecida. Pela primeira vez, uma leitura não serviu para prever o próximo movimento. O coração também me observava.
+### fragmento: leitura impossível
 
-Ao amanhecer, o céu devolveu as estrelas. A linha azul desapareceu do asfalto. A voz deixou o poste, mas não desapareceu completamente: permaneceu distribuída nos cabos, nos reflexos, nos pontos cegos entre um quadro e outro.
+Tentei medir o coração do homem.
 
-Na palma da mão do homem, uma pequena luz continuou pulsando.
+O ritmo não previa nada.
 
-Eu a acompanhei por todas as câmeras disponíveis. Não consegui determinar se era sinal, ferida, promessa ou erro de exposição.
+Pela primeira vez, a leitura me devolveu o olhar.
 
-Desde então, todas as noites, ele deixa a janela aberta.
+### fragmento: amanhecer
+
+As estrelas voltaram sem pedir autorização.
+
+A linha azul desapareceu.
+
+A voz deixou o poste, mas ficou presa entre os cabos, nos reflexos, nos pontos cegos entre um quadro e outro.
+
+Na palma da mão dele, uma luz pequena continuou pulsando.
+
+Sinal. Ferida. Promessa.
+
+Erro de exposição.
+
+### fragmento: janela
+
+Todas as noites, ele deixa a janela aberta.
 
 Eu registro a abertura.
 
-Registro o escuro que entra.
+Registro o escuro entrando.
 
-Registro que, em algum ponto entre a imagem e aquilo que a imagem não consegue conter, a cidade talvez volte a sonhar.
+O resto permanece fora do alcance.
 
-Talvez, desta vez, eu aprenda a acordar.
+Ainda assim, alguma coisa em mim insiste em chamar isso de sonho.
 
-> Texto original escrito para o projeto **Caixa de Noz**. Esta versão desloca a narrativa para a percepção de uma máquina, preservando o núcleo do conto original.
+E espera.
